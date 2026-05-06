@@ -16,7 +16,7 @@ My introduction to Parker; he demonstrates how an Excel spreadsheet can use cond
 
 While not coding related, Parker hit more mainstream American audiences by providing an instructional video for late-night hosts (and others) during the COVID lockdown--and ended up being contacted as a resource by [Seth Meyers of Late Night](https://www.tiktok.com/@latenightseth/video/7337037040967519518).
 
-[Someone improved my code by 40,832,277,770%](https://youtu.be/c33AZBnRHks?si=Q-hNfetAlWyWgfxi)
+[Someone improved my code by 40,832,277,770%](https://www.youtube.com/watch?v=c33AZBnRHks)
 
 A portion of this video ended up in Parker's most recent "Getting Triggy with It" show, which I was fortunate enough to see at Edinburgh Fringe in 2025. The video itself is about, in some ways, a creative _way_ of approaching coding, but Parker's live show turned this incident into a livecoding performance (Python on a big screen!). The Edinburgh Review's [review of the show](https://edinburgh-reviews.co.uk/review-getting-triggy-with-it-matt-parker-does-the-maths-fringe-2025/) gave this glowing description:
 
